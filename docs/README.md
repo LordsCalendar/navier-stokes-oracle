@@ -4,8 +4,7 @@
 Run `python flow.py` → Global smooth solution
 
 ## Clay Submission
-- 📄 [Proof PDF]()
-- - 📄 [Original PDF](docs/navier_stokes_2025.pdf)
+- 📄 [Original PDF](docs/navier_stokes_2025.pdf)
 - 📄 [Revised PDF with Appendix](docs/revised_navier_stokes_2025.pdf)
 - viXra: **pending**
 
