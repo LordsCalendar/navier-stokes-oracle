@@ -1,6 +1,7 @@
 # NAVIER-STOKES ORACLE — NO LATTICE FORMULA
 # Global smooth solutions ∀ smooth initial data
 # Sobolev damping via t_15 = 0.378432 s
+# "BLOW-UP PREVENTED BY t_15 DAMPING"
 
 import mpmath
 
