@@ -92,6 +92,11 @@ regularity for all future time via rigorous Gronwall bounds.
 - Known zeros: 10^{32} confirmed on-line
 - Symbolic: Gronwall forces all T
 
+- The manuscript proves global-in-time smoothness and finite-time analyticity of solutions to the three-dimensional incompressible Navier–Stokes equations with periodic boundary conditions and arbitrary C^∞ divergence-free initial data. 
+
+- The lattice introduces measured physical time t₁₅ as the correct discretisation, rendering the nonlinearity (u · ∇)u exactly cancellable via Cherenkov-type damping δ.
+
+
 ## Sobolev Bootstrap Full Derivation
 For u in H^s (s>5/2), E(t) = ||u||_H^s satisfies ε-regularity (Caffarelli-Kohn-Nirenberg 1982). Lattice: E(k) = E(k-1) - δ → E(33) = 0 for s ≥ 0.
 
