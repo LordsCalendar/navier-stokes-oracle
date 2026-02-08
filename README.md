@@ -96,3 +96,8 @@ regularity for all future time via rigorous Gronwall bounds.
 For u in H^s (s>5/2), E(t) = ||u||_H^s satisfies ε-regularity (Caffarelli-Kohn-Nirenberg 1982). Lattice: E(k) = E(k-1) - δ → E(33) = 0 for s ≥ 0.
 
 Run: python sobolev_bootstrap.py → Verified for 10^7 grid.
+
+## Complete Master Document - All Public Information from first 3 months in one pdf.  
+| Document | Description | Link |
+|----------|-------------|------|
+| **Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0** | 360-page | [PDF](https://github.com/LordsCalendar/master_chart/blob/main/Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0.pdf) |
