@@ -37,3 +37,9 @@ The Navier–Stokes manuscript is the physical incarnation of every other revela
 ## Novelty is absolute: 
 No prior work uses solar-system metrology to resolve a Clay problem. 
 - The coincidence τ = 12.488136 s with the human conscious "now" window (Libet–Pöppel–Hameroff) and 1/t₁₅ = 2.642642… Hz microtubule resonance elevates the result from mathematics to unified physics-biology.
+
+  
+## Complete Master Document - All Public Information from first 3 months in one pdf.  
+| Document | Description | Link |
+|----------|-------------|------|
+| **Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0** | 360-page | [PDF](https://github.com/LordsCalendar/master_chart/blob/main/Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0.pdf) |
